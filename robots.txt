@@ -1,6 +1,4 @@
 User-agent: *
 Allow: /
-Disallow: /listok-tlac/
-Disallow: /menu-tlac/
-Disallow: /socialne-zdroj/
+
 Sitemap: https://domacaknedla.sk/sitemap.xml
